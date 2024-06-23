@@ -1,0 +1,3 @@
+[submodule "FlightBooking"]
+	path = FlightBooking
+	url = https://github.com/Shwetha2020/FlightBooking.git
